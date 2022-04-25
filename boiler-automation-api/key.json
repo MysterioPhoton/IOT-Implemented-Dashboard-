@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sugrbalanceapp",
+  "private_key_id": "ecee3b193f2a70ad5b720cc8b4a69673db064ee0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCf4UTlHPhQsLtZ\nCvJwvrFWiwEtYSP/s7suz3TAmul33m7CSoo6FhKvbgVvs32cNg0kIobjgJWseo0M\nur2RgRYZ/xSa7eT51qmL3m7hzxuJFXF3E6UTNWkKRUBS9nGTr8lf6Kmk+A5rR8TW\n8Y6yv2Q3KXhyYrsGOnhFn1s3KEqvqShs5Y8dL1mF9Qc1p59j2Nc/nOaLzaMD6YmD\nES9TEhThjYNjo2NMqTr/dm9KFeC4OWKyWVgCs4TM0LG6EjJSDw+LgZlrFV3nNRro\nIPqiALg/zTTQ2w1IFGwoFGUrlkUnZDduVXiiXL4yJf35Nj7SRZ7QMasd1qsQYpQe\nRQ4uRZMLAgMBAAECggEAR5fVhQ9C9scdLdNkGy6ZNNrMLSj5uNAf+uc1LeZws5es\nW16LpVUrCtmmn41tqxzdJ5g6dPeojnLWZKPeraBzaDK8ZGAxD9ubUqHJX16hwvIS\nPDNU0VQydEHsevoWg/7MmyERjmjx9AJQV7wVnV9tHfJ5GCez/icCopKogvuM7jmJ\nSR7xYk71MKXh6uiMX2JUQNdJ2QMXylClwF21FV+8K9fAvwLu/pwkKa4tIhHgM7RN\nZhwGFgz2FJS0IQ6ad5+dizDis8sIWOAZzV0PeFyx9ykD0f7BN64e38f1e4tf8FhY\nLXEjeig3UM4hma5ZUKpwTAJNX4BsdGQ034DuNyGseQKBgQDMViVlm3w7SX0y3cV7\nIs8ISJ4r9G50mv89zQlwZvsOza/e8xR9IdZVKoHXi+yZKv7mG3dPLT+3+H8nlpF2\nNa+YcUF4wvEzV1cOJwaJfWAAn+qNH4+pSQnOmcRsnwCI8yVfd/rg3sloNQpxCctf\nLfr6nmerkrcP3FoQQ7ZsZBQRBwKBgQDITaKTy/dSDjVRnEKyRLsX6CS2YlOUxesS\nT+4I2cgQsoqnQCfpr8yaAuOO1ZMC2fHWwfIcE5iX7Var35hTll3DRD2C8+VboX46\nao/AzLs3LTOW0mBpZGJ/N6qM5n8KuWBqKAwX58MXYc3vxVQUc7JcVCu0G1rR3U9h\nTbs8eB4g3QKBgQCq4Btz5du05JbLM8QSXiCNx9Rl44l+/6MU9mK/WY73aTB6nAJ1\nRherrtlX/E5GJDt3CF70ml1fpnIHFBXeqbSHIabjqvnzukU1s5L25R6kRxbpHwyP\nP2HxIIuvXiQfYl3NgVMOO6BoAXsS3mLw3E22yULeqtllbRrv4QArkmFpfwKBgQCS\npvzEd06h3lM9aEoQ2W+eJlJS0pTdVTcyFiFyi3kGeKI5qChQ2WzUyg6v8kELkmSV\nVzSbR+GuQo/1kOSnNm153QmoSkgAGbIgtQqBH6Rm1opx/5+lKmFPQYN2XABh6q3j\nq2SHUCGvieVMis5vlvHc1aeV231YME/BLzdKI6vzZQKBgQCl/z+Vrpti9ANtGzsL\n3q4D46f3Jkgwtbgc35al5BtmAFjQ/XI8h258Xa+S/g3HWhcM0+pmjdbIW5ImhrMQ\nE9BlW5LeVQbVT9CTkSVYtCFmf5q19FGQM7ccthcH2kGNvTt+adH/ynQiU9ou/H3e\nWTenJmCRQh8asmjW8INml4PABQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-iyfby@sugrbalanceapp.iam.gserviceaccount.com",
+  "client_id": "105100842916470626983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-iyfby%40sugrbalanceapp.iam.gserviceaccount.com"
+}

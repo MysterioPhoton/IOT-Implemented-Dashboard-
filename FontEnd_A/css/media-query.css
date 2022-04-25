@@ -1,0 +1,73 @@
+
+/*                      MEDIA QUERY */
+
+
+
+/*                      1920px */
+
+@media all and (max-width: 1920px) {
+
+}
+
+
+/*                      1366px */
+
+@media all and (max-width: 1366px) {
+
+}
+
+
+
+/*                      1080px */
+
+@media all and (max-width: 1080px) {
+    
+}
+
+
+
+/*                      768px */
+
+@media all and (max-width: 768px) {
+    .main .content {
+        width: 100%;
+    }
+}
+
+
+
+/*                      640px */
+
+@media all and (max-width: 640px) {
+    .menu img {
+        height: 20px;
+    }
+    .menu .name {
+        font-size: 15px;
+        font-weight: bold;
+        display: inline;
+        font-family: roboto;
+        margin: 0;
+        padding: 0;
+        color: #FFFFFF;
+        letter-spacing: 5px;
+        cursor: pointer;
+        text-decoration: none;
+    }
+    .menu .home {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+}
+
+
+
+/*                      320px */
+
+@media all and (max-width: 320px) {
+    
+}
+
+
+
