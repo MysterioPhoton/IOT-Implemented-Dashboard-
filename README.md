@@ -7,6 +7,6 @@
 ## Secondary Data Observation Link : https://apmonitor.com/pdc/uploads/Main/tclab_data2.txt or https://github.com/APMonitor/arduino/blob/master/2_Regression/2nd_order_MIMO/GEKKO/data.txt
 
 
-###### Puja Biswas
-###### SID: 9912102
-###### username/author: biswasp3, Puja
+## Puja Biswas
+## SID: 9912102
+## username/author: biswasp3, Puja
