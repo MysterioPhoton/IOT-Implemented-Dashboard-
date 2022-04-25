@@ -1,0 +1,208 @@
+/*                      PRESET */
+
+body {
+    margin: 0;
+    background-color: #F8F8F8;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    max-width: 1920px;
+}
+
+
+/*                      FONTS */
+
+@font-face {
+    src : url(fonts/Roboto-Regular.woff);
+    font-family: roboto;
+}
+
+
+/*                      MAIN */
+
+ .main {
+     background-color: #F8F8F8;
+     width: 100vw;
+     height: 100vh;
+     margin: auto;
+     padding-top: 100px;
+ }
+.main .box {
+    height: 500px;
+    max-width: 800px;
+    background-color: #FFFFFF;
+    margin: auto;
+    border-radius: 20px;
+    display: flex;
+}
+
+/*                      LEFT */
+
+.box .art {
+    background-color: #33D2FD;
+    height: 100%;
+    width: 40%;
+    border-radius: 20px 0 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    background-image: url(images/abstract-2.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box .art img {
+    height: 50px;
+}
+.box .art a {
+    font-size: 15px;
+    display: inline;
+    font-family: roboto;
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+    letter-spacing: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+/*                      RIGHT */
+
+.main .info {
+    background-color: #FFFFFF;
+    height: 100%;
+    width: 60%;
+    border-radius: 0 20px 20px 0;
+}
+.main .content {
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+.main .form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.content .form-group {
+    display: flex;
+    justify-content: space-between;
+    align-content: baseline;
+}
+.content .form-group label {
+    font-family: roboto;
+    font-size: 12px;
+    align-self: center;
+    color: #818587;
+    cursor: pointer;
+}
+.content .form-group input {
+    width: 70%;
+    font-family: roboto;
+    font-size: 12px;
+    padding: 10px;
+    border: 2px solid #DFE7EA;
+    background-color: #FCFCFD;
+    border-radius: 2px;
+    color: #818587;
+}
+.content .form-group input::placeholder {
+    color: #C8D3DC;
+    opacity: 1;
+}
+
+/* GENDER */
+
+.form-group .gen {
+    display: flex;
+    width: 70%;
+    justify-content: left;
+    gap: 30px;
+}
+.form-group .gen input[type=radio] {
+    position: absolute;
+    display: none;
+    visibility: hidden;
+}
+.gen label i {
+    font-size: 15px;
+    padding: 10px 15px;
+    background-color: #FCFCFD;
+    border-radius: 500px;
+    transition: 0.2s ease-in-out;
+}
+.gen label i:hover {
+    background-color: #1b0747;
+    color: white;
+}
+.gen input[type=radio]:checked + label i{
+    background-color: #1b0747;
+    color: #FFFFFF;
+}
+.gen .male,
+.gen .female {
+    display: flex;
+    gap: 10px;
+}
+
+/* SUBMIT */
+
+.submit {
+    margin-left: auto;
+    display: flex;
+    justify-content: right;
+    width: 70%;
+    gap: 7px;
+    margin-top: 30px;
+}
+.submit .cancel {
+    width: 50%;
+}
+.submit .save {
+    width: 50%;
+}
+.submit input {
+    width: 100%;
+    font-family: roboto;
+    cursor: pointer;
+    font-size: 12px;
+    padding: 10px 0;
+    border-radius: 2px;
+    transition: 0.2s ease-in-out;
+    border: 0;
+}
+.submit .cancel input {
+    color: #818587;
+    background-color: #FCFCFD;
+}
+.submit .cancel input:hover {
+    background-color: rgb(247, 71, 71);
+    color: #FFFFFF;
+}
+.submit .save input {
+    color: #FFFFFF;
+    background-color: #95EB75;
+}
+.submit .save input:hover {
+    background-color: #1b0747;
+    color: #FFFFFF;
+}
+
+.login-link {
+    font-family: roboto;
+    font-size: 12px;
+    color: #818587; 
+    padding: 20px 0;
+}
+.login-link a {
+    color: #1b0747;
+}
